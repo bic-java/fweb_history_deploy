@@ -15,4 +15,8 @@
 |**Commit**         |   https://bitbucket.org/bicjava/f_web/commits/9f9909b1218db78fee593a41b515c92d09e0d2a3
 
 
-
+|Updating       |   4c8d0ea..7296f77
+| -------------------------: | :---
+|**Fecha**          |   Fri Jul 15 16:12:58 UTC 2016
+|**Descripción**   |   Updated version, to clean client's browser's cache
+|**Commit**         |   https://bitbucket.org/bicjava/f_web/commits/7296f77c4b5caf66520744ecb0dfe93674bb8da2
