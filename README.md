@@ -31,3 +31,11 @@
 |**Commit**         |   https://bitbucket.org/bicjava/f_web/commits/9a995aef4f0bc3966c53536a6c59ea7f2e499455
 |**Merge**         |   https://bitbucket.org/bicjava/f_web/commits/54881a1254fe7097fb20a5cf7bc2ca0ec9a58436
 
+
+|Updating       |   f120121..9d2ecc5
+| -------------------------: | :---
+|**Fecha**          |   Wed Feb 15 10:08:09 CST 2017
+|**Descripción**   |   Nomina 12 y chat de soporte con tawk.to
+|**Commit**         |   fc695f9 - ce6416e
+|**Merge**         |   9d2ecc5
+
