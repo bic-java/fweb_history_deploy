@@ -39,3 +39,6 @@
 |**Commit**         |   fc695f9 - ce6416e
 |**Merge**         |   9d2ecc5
 
+|Updating       |   a2663ce..ee3caf7
+| -------------------------: | :---
+|**Fecha**          |   mar ene  2 09:56:05 CST 2018
